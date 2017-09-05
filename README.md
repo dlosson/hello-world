@@ -1,2 +1,4 @@
 # hello-world
-For general files and ideas.
+Hi all,
+
+My name is David. I'm a junior at the University of Kentucky studying Computer Science.
